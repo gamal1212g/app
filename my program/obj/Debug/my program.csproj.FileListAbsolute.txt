@@ -1,0 +1,14 @@
+E:\english\my program\my program\bin\Debug\my program.exe.config
+E:\english\my program\my program\bin\Debug\my program.exe
+E:\english\my program\my program\bin\Debug\my program.pdb
+E:\english\my program\my program\obj\Debug\my program.csproj.AssemblyReference.cache
+E:\english\my program\my program\obj\Debug\my program.csproj.SuggestedBindingRedirects.cache
+E:\english\my program\my program\obj\Debug\my_program.Employees.resources
+E:\english\my program\my program\obj\Debug\my_program.login.resources
+E:\english\my program\my program\obj\Debug\my_program.Properties.Resources.resources
+E:\english\my program\my program\obj\Debug\my program.csproj.GenerateResource.cache
+E:\english\my program\my program\obj\Debug\my program.csproj.CoreCompileInputs.cache
+E:\english\my program\my program\obj\Debug\my program.exe
+E:\english\my program\my program\obj\Debug\my program.pdb
+E:\english\my program\my program\obj\Debug\my_program.Departments.resources
+E:\english\my program\my program\obj\Debug\my_program.Salaries.resources
